@@ -34,6 +34,7 @@ export const projectsData = [
     info2: '',
     url: '',
     repo: 'https://github.com/uigy/hairstyle-studio', // if no repo, the button will not show up
+    inProgress: true,
   },
 ];
 
