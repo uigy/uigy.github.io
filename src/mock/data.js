@@ -32,7 +32,7 @@ export const projectsData = [
     title: '',
     info: 'Hairstyle studio web page with possibility of making appointments',
     info2: '',
-    url: '',
+    url: 'https://uigy.github.io/hairstyle-studio/',
     repo: 'https://github.com/uigy/hairstyle-studio', // if no repo, the button will not show up
     inProgress: true,
   },
